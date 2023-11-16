@@ -7,10 +7,14 @@ In my studies, I've engaged in diverse projects covering concept art, 3D modelin
 # Software Proficiency
 I've worked extensively with industry-standard software such as Maya and Substance Painter, and I have some experience with Unreal Engine.
 
-Here are some images of the programs I've used:
-- ![Maya](https://i.pinimg.com/564x/a6/a4/bf/a6a4bfb514e96ecf6fdbb6cce692cc48.jpg)
-- ![Substance Painter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWHIa_QVVdglhgcb4cxw5xv3tbkbZ3L-3eAGaEgG3TQm8JvSgCyvaZVUEAcPLOnx2zn8&usqp=CAU)
-- ![Unreal Engine](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/512px-Unreal_Engine_Logo.svg.png)
+Here are some images of the programs I've used: <br>
+<img src=https://i.pinimg.com/564x/a6/a4/bf/a6a4bfb514e96ecf6fdbb6cce692cc48.jpg height=150><br> 
+<img src=https://cdn.artstation.com/p/topic_icons/000/000/313/original/topic-icon-1650914043.png?1650914043 height=125><br>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/512px-Unreal_Engine_Logo.svg.png height=110><br>
+<img src=https://seeklogo.com/images/Z/ZBrush-logo-43D6324DC8-seeklogo.com.png height=110><br>
+<img src=https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg height=110>
+
+
 
 # Portfolio
 You can find my portfolio on [ArtStation](https://www.artstation.com/santiagopizarro7). I'm currently enhancing it, and the showcased projects are from class assignments. In the future, I plan to upload personal projects to which I dedicate more care.
